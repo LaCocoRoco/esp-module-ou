@@ -1,6 +1,12 @@
-# Operating Unit
+## Operating Unit
 
 ![function_graphic](/eagle/images/esp-module-ou.png)
+
+## How to use
+
+```
+git clone --recursive https://github.com/LaCocoRoco/esp-module-ou.git
+```
 
 # Documentation
 
