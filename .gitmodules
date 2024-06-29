@@ -1,3 +1,0 @@
-[submodule "ou-code"]
-	path = code
-	url = git@github.com:LaCocoRoco/esp-module-code.git
