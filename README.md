@@ -1,13 +1,19 @@
-## Operating Unit
+# ESP Module - Operating Unit
 
-![function_graphic](/eagle/images/esp-module-ou.png)
-
-## How to use
+## Guide
 
 ```
 git clone --recursive https://github.com/LaCocoRoco/esp-module-ou.git
 ```
 
-# Documentation
+## Reference
 
-Interactive [BOM Viewser](https://htmlpreview.github.io/?https://github.com/LaCocoRoco/esp-module-ou/blob/main/eagle/bom/esp-module-ou.html)
+- Interactive [BOM Viewer](https://htmlpreview.github.io/?https://github.com/LaCocoRoco/esp-module-ou/blob/main/eagle/bom/esp-module-ou.html)
+
+## Preview
+
+![function_graphic](/images/esp-module-ou-pcb.png)
+
+![function_graphic](/images/esp-module-ou.png)
+
+![function_graphic](/images/esp-module-ou-photo.png)
