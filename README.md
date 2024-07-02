@@ -16,4 +16,4 @@ git clone --recursive https://github.com/LaCocoRoco/esp-module-ou.git
 
 ![function_graphic](/images/esp-module-ou.png)
 
-![function_graphic](/images/esp-module-ou-photo.png)
+![function_graphic](/images/esp-module-ou-photo.jpg)
