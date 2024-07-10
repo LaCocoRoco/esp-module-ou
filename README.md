@@ -1,6 +1,6 @@
-# ESP Module - Operating Unit
+# $\color{red}{\textsf{In Development}}$
 
-## Guide
+## Quick Guide
 
 ```
 git clone --recursive https://github.com/LaCocoRoco/esp-module-ou.git
