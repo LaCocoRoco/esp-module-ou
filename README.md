@@ -12,14 +12,6 @@ git clone --recursive https://github.com/LaCocoRoco/esp-module-ou.git
 
 ## Preview
 
-#### PCB
-
 ![function_graphic](images/esp-module-ou-pcb.png)
 
-#### PCB with CAD Parts
-
 ![function_graphic](images/esp-module-ou.png)
-
-#### Prototyp
-
-![function_graphic](images/esp-module-ou-photo.png)
