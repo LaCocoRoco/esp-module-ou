@@ -8,7 +8,7 @@ git clone --recursive https://github.com/LaCocoRoco/esp-module-ou.git
 
 ## Reference
 
-- Interactive [BOM Viewer](https://htmlpreview.github.io/?https://github.com/LaCocoRoco/esp-module-ou/blob/main/eagle/bom/esp-module-ou.html)
+- Interactive [BOM Viewer](https://htmlpreview.github.io/?https://github.com/LaCocoRoco/esp-module-ou/blob/main/pcb/bom/esp-module-ou.html)
 
 ## Preview
 
